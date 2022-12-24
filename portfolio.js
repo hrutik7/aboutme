@@ -259,14 +259,14 @@ export const projects = [
 		link: "https://developer-portfolio-1hanzla100.vercel.app/",
 	},
 	{
-		name: "AtlasMart",
-		desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
-		github: "https://github.com/1hanzla100/Django-React-Marketplace",
+		name: "CV generator",
+		desc: "With CV Generator, it’s easy to Build the Asthatically great cv with different themes.",
+		github: "https://github.com/hrutik7",
 	},
 	{
-		name: "Technota (Forum)",
-		desc: "Get hands-on experience in technical skills with Technota",
-		github: "https://github.com/1hanzla100/django-react-forum",
+		name: "Crypto currency tracker",
+		desc: "Get Live rates of crypto currency and get the data in the chart format for analysing the data",
+		github: "https://github.com/hrutik7",
 	},
 	{
 		name: "Animeshop (Ecommerce)",
