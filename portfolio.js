@@ -297,7 +297,7 @@ export const seoData = {
 	description:
 		"A passionate Full Stack Web Developer and Blockchain Developer.",
 	author: "Hrutik kumthekar",
-	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+	image: "https://avatars.githubusercontent.com/u/62372737?v=4",
 	url: "https://aboutme-hrutik7.vercel.app/",
 	keywords: [
 		"Hrutik",
