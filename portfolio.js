@@ -38,7 +38,7 @@ export const skillsSection = {
 				),
 				emoji("⚡ Building responsive static websites using Next.js"),
 				emoji(
-					"⚡ Building RESTful APIs in Django & Django REST Framework"
+					"⚡ Building RESTful APIs in NodeJS & Nodejs REST Framework"
 				),
 			],
 			softwareSkills: [
