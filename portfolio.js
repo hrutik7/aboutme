@@ -295,7 +295,7 @@ export const showContactUs = true;
 export const seoData = {
 	title: "Hrutik kumthekar",
 	description:
-		"A passionate Full Stack Web Developer and Blockchain Developer.",
+		"A passionate Software Developer.",
 	author: "Hrutik kumthekar",
 	image: "https://avatars.githubusercontent.com/u/62372737?v=4",
 	url: "https://aboutme-hrutik7.vercel.app/",
