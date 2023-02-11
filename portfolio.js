@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Hrutik Kumthekar",
 	title: "Hi all, I'm Hrutik",
 	description:
-		"Hope you are well , I am experienced developer .I like the growing and hustling environment of startups . Already had a experience with service based as well as product based startups (3 years of development experience) currently working on opensource project  and I am currently only looking for freelance opportunities",
+		"Hope you are well, I am experienced developer.I like the growing and hustling environment of startups. Already had a experience with service based as well as product based startups (3 years of development experience) currently working on opensource project  and I am currently only looking for freelance opportunities",
 	resumeLink:
 		"https://drive.google.com/file/d/14jpIILXHALA-qB9-2WypxooLa9FZXl7i/view?usp=sharing",
 };
